@@ -1,0 +1,6 @@
+{
+  "name": "UPI Shield",
+  "description": "AI-powered Fake UPI Detection & Scam Prevention Website to analyze APIs, QR codes, and messages for fraud.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
